@@ -1,4 +1,4 @@
-package org.example.solidprinciple;
+package org.sumit.solidprinciple;
 
 import java.io.File;
 

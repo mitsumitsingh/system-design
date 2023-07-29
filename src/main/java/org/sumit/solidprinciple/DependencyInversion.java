@@ -1,4 +1,4 @@
-package org.example.solidprinciple;
+package org.sumit.solidprinciple;
 
 /**
  * D - Dependency Inversion Principle
