@@ -1,4 +1,4 @@
-package org.sumit.solidprinciple;
+package sumit.solidprinciple;
 
 /**
  * L -> Liskov Substitution Principle

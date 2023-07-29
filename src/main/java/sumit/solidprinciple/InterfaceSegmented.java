@@ -1,4 +1,4 @@
-package org.sumit.solidprinciple;
+package sumit.solidprinciple;
 
 /**
  * I - Interface Segmented Principle

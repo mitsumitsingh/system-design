@@ -1,4 +1,4 @@
-package org.sumit.solidprinciple;
+package sumit.solidprinciple;
 
 /**
  * S -> Single Responsibility Principle
